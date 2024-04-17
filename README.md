@@ -21,16 +21,22 @@ See more key bindings by checking his github in the links section below
 ## Neovim
 Using `nvim-lua/kickstart.nvim` configuration
 
-Manage plugins like so :
+Plugin manager is `folke/lazy.nvim` :
+  - `:Lazy` to manage plugins
+  - check github in the links section below
 
-Manage LSPs like so :
+Manage LSPs :
+  - `:Mason`, press `i` to install one
 
-Open filetree with :
+Filetree plugin is `nvim-neo-tree/neo-tree.nvim` :
+  - open filetree with `space + a`
+  - check github in the links section below
 
-See more key bindings at...
+-- TODO : provide cheatsheet for this nvim setup's basic commands
 
 ## Some basic packages
 - git
+- cmake
 - tmux
 - neovim (aliased as vim)
 - pip
@@ -40,4 +46,6 @@ See more key bindings at...
 ## Links
 tmux config : https://github.com/gpakosz/.tmux
 neovim config : https://github.com/nvim-lua/kickstart.nvim
+Neotree : https://github.com/nvim-neo-tree/neo-tree.nvim
+Lazy.nvim : https://github.com/folke/lazy.nvim
 
