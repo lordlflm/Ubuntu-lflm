@@ -44,6 +44,7 @@ Filetree plugin is `nvim-neo-tree/neo-tree.nvim` :
 - pip
 - pwntools
 - gdb peda
+- rust
 
 ## Links
 tmux config : https://github.com/gpakosz/.tmux
