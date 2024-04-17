@@ -37,6 +37,8 @@ Filetree plugin is `nvim-neo-tree/neo-tree.nvim` :
 ## Some basic packages
 - git
 - cmake
+- curl
+- docker engine
 - tmux
 - neovim (aliased as vim)
 - pip
