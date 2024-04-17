@@ -1,6 +1,5 @@
 # Ubuntu-lflm
-Download here : https://drive.google.com/file/d/1h5OatlsnhAPxR1obfX_czuo_NXmIuW6l/view?usp=drive_link
-
+Download here : https://drive.google.com/file/d/1nWxNl4RTasEjK_mZPDBvEwRgjLzN79k8/view?usp=sharing
 ## Shell
 Default shell is `/bin/zsh` using `oh-my-zsh` framework configuration
 Plugins are :
