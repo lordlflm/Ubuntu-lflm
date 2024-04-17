@@ -50,7 +50,10 @@ Filetree plugin is `nvim-neo-tree/neo-tree.nvim` :
 
 ## Links
 tmux config : https://github.com/gpakosz/.tmux
+
 neovim config : https://github.com/nvim-lua/kickstart.nvim
+
 Neotree : https://github.com/nvim-neo-tree/neo-tree.nvim
+
 Lazy.nvim : https://github.com/folke/lazy.nvim
 
