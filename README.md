@@ -1,5 +1,10 @@
 # Ubuntu-lflm
+
+## Install
 Download here : https://drive.google.com/file/d/1nWxNl4RTasEjK_mZPDBvEwRgjLzN79k8/view?usp=sharing
+
+When booted, set up terminal preferences by running `p10k conmfigure`
+
 ## Shell
 Default shell is `/bin/zsh` using `oh-my-zsh` framework configuration
 Plugins are :
