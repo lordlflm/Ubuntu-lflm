@@ -16,11 +16,11 @@ Plugins are :
 Using `gpakosz/.tmux` (oh my tmux) configuration
 
 For exemple :
-  - <prefix> is `ctrl + a`
-  - <prefix>- to split pane horizontally
-  - <prefix>_ to split pane vertically
-  - <prefix>c to create new session
-  - <prefix>2 to jump to session 2 (or mouse)
+  - `<prefix>` is `ctrl + a`
+  - `<prefix>-` to split pane horizontally
+  - `<prefix>_` to split pane vertically
+  - `<prefix>c` to create new session
+  - `<prefix>2` to jump to session 2 (or mouse)
 
 Mouse mode is enabled by default
 
