@@ -1,7 +1,9 @@
 # Ubuntu-lflm
 
 ## Install
-Download here : https://drive.google.com/file/d/1nWxNl4RTasEjK_mZPDBvEwRgjLzN79k8/view?usp=sharing
+Download [here](https://drive.google.com/file/d/1YhzVU6GGS2hdXN0GI8MahotBQTLKQkKn/view?usp=sharing)
+
+Checksum is 3761449545afe283b12401ea02a79693
 
 When booted, set up terminal preferences by running `p10k conmfigure`
 
